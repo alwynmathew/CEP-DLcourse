@@ -18,6 +18,6 @@ Contains python notebooks used on 3rd day of the hands-on session on Convolution
  
  ## Slides
  
- Slides can be found at this [link](goo.gl\oxVCHd).
+ Slides can be found at this [link](https://goo.gl\oxVCHd).
  
  Slides are borrowed from different sources like [Stanford CS231n](http://cs231n.stanford.edu/), etc.
