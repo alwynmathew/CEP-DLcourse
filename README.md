@@ -6,9 +6,9 @@ Contains python notebooks used on 3rd day of the hands-on session on Convolution
  
  ## Files
  
- 1. Introduction to CNN with MNIST image classification
- 2. Transfer learnign with MNIST
- 3. Image segmentation on CDnet2014 dataset
+ 1. [Introduction to CNN with MNIST image classification](https://github.com/alwynmathew/CEP-DLcourse/blob/master/1_mnist_cnn.ipynb)
+ 2. [Transfer learnign with MNIST](https://github.com/alwynmathew/CEP-DLcourse/blob/master/2_transfer_cnn.ipynb)
+ 3. [Image segmentation on CDnet2014 dataset](https://github.com/alwynmathew/CEP-DLcourse/blob/master/3_segment_finetune.ipynb)
  
  ## Exercises for you
  
