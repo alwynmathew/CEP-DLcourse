@@ -1,6 +1,6 @@
 # Course hands-on materials
 
-Materials for students who attended CEP Course on *Machine Learning and Deep Learning:Issues, Innovations and Interplays* at IIT Patna on Dec 09 to Dec 11,2018.
+Materials for students who attended [CEP Course](http://www.iitp.ac.in/cep/) on *Machine Learning and Deep Learning:Issues, Innovations and Interplays* at IIT Patna on Dec 09 to Dec 11,2018.
 
 Contains python notebooks used on 3rd day of the hands-on session on Convolutional Neural Network(CNN).
 
