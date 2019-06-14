@@ -2,7 +2,7 @@
 
 Materials for students who attended [CEP Course](http://www.iitp.ac.in/cep/) on *Machine Learning and Deep Learning:Issues, Innovations and Interplays* at IIT Patna on Dec 09 to Dec 11,2018.
 
-Contains python notebooks used on 3rd day of the hands-on session on Convolutional Neural Network(CNN).
+Contains python notebooks used on 3rd day of the hands-on session on Convolutional Neural Network(CNN). Rest hand-on codes can be found [here](https://github.com/nrjcs/DL_ML).
 
 _NOTE: This repo consist of very basic examples for ML/DL beginners. Thus, to make it as easy as possible all examples can be directly run on [Google colab](https://colab.research.google.com/) with Google Drive._
  
